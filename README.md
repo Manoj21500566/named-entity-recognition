@@ -138,20 +138,19 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
     print("{:15}{}\t{}".format(words[w-1], tags[true], tags[pred]))
 
 ~~~
-Include your code here
-
-## OUTPUT![3](https://user-images.githubusercontent.com/94588708/198882881-cda75d48-a018-4a69-b12b-dbf2debce270.png)
-![3](https://user-images.githubusercontent.com/94588708/198882883-7d33eace-63e5-4c77-90c1-81a6146b76fc.png)
 
 
-### Training Loss, Validation Loss Vs Iteration Plot![2](https://user-images.githubusercontent.com/94588708/198882875-43c41444-d5ec-4325-a9f4-3db219456bc9.png)
-![2](https://user-images.githubusercontent.com/94588708/198882876-278b8b77-87da-41f1-a294-aad80f5a4702.png)
+## OUTPUT:
 
+### Training Loss, Validation Loss Vs Iteration Plot
+![2](https://user-images.githubusercontent.com/94588708/198883007-211dca46-73d1-4a03-aeab-01776823d0f4.png)
+![3](https://user-images.githubusercontent.com/94588708/198883010-800a7cc5-dcd6-4d29-afda-3c96aaed6fe0.png)
 
 
 
-### Sample Text Prediction![4](https://user-images.githubusercontent.com/94588708/198882889-fe1bf4c9-87a7-4cdf-aae7-e7a383fecbc2.png)
-![4](https://user-images.githubusercontent.com/94588708/198882890-3b7b83a1-b1db-4e5a-a564-c936ff84facb.png)
+
+### Sample Text Prediction
+![4](https://user-images.githubusercontent.com/94588708/198883019-a8ff48f3-1991-4484-82e6-172f464d297e.png)
 
 
 
